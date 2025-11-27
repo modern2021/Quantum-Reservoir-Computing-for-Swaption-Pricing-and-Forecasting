@@ -140,19 +140,6 @@ This mirrors enterprise workloads:
 
 ---
 
-# 🖥️ Visualization
-
-### Forecast Surface
-- Predictions form smooth tenor–maturity manifolds
-- No collapses or spikes
-- Financially meaningful
-
-### Interactive Visuals
-- Plotly scatter
-- 3D forecast surface
-- Time-lapse of market evolution
-
----
 
 # 🛠️ Tech Stack
 
