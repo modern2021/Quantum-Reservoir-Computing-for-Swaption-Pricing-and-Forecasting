@@ -1,0 +1,8 @@
+qiskit
+qiskit-machine-learning
+qiskit-aer
+pandas
+openpyxl
+scikit-learn
+matplotlib
+seaborn
